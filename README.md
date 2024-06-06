@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to collaborate on projects and portfolios.
 - 📫 You can reach me through onoyomokon@gmail.com
-- 😄 I am a "He".
+- 😄
 - ⚡ Fun fact: I like visualizing data and everyday happenings around me.
 
 <!---
